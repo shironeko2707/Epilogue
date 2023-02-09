@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+It's+been+a+while)](https://git.io/typing-svg)
+
 I'm self-study data scientist and I'm looking for chance to learn more about machine learning
 
 ---
 
 ### ⚡️ A quick introduction
-🔭 I’m currently working on a Kaggle competition.
-🌱 I’m currently learning Machine Learning.
-💼 I'm open to freelancing projects.
+
+- 🔭 I’m currently working on a Kaggle competition.
+- 🌱 I’m currently learning Machine Learning.
+- 💼 I'm open to freelancing projects.
 
 ### 🤝🏻 Connect, Follow, Subscribe
 
